@@ -3,14 +3,14 @@
 
 ## Frontend Tooling and React
 
-### Author: HN
+### Author: Sarkis Aghazarian
 
 ### Links and Resources
 * [repo](https://github.com/sarkis74/lab-26-401n12)
 * [heroku](https://lab-26-401n12.herokuapp.com/)
 
 ### Description
-Simple application testing out React using cowsay-npm and faker-npm to generate randomized sayings when a button is clicked.
+React application using cowsay-npm and faker-npm to generate randomized sayings when a button is clicked.
 
 ### Modules
 #### `faker`
